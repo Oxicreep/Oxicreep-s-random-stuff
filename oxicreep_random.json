@@ -1,0 +1,18 @@
+{
+  "id": "oxicreep_random",
+  "name": "Oxicreep's random stuff",
+  "author": [
+    "Oxicreep"
+  ],
+  "description": "Just some random additions   l   created using Joker Forge",
+  "prefix": "oxicreep_random",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "priority": 0,
+  "badge_colour": "6f1a41",
+  "badge_text_colour": "febc64",
+  "display_name": "Oxicreep",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0404a)"
+  ]
+}
