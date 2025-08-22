@@ -1,4 +1,4 @@
-# Oxicreep-s-random-stuff
+# Oxicreep's random stuff
 a Balatro mod with random stuff made by Oxicreep using Joker Forge
 
 -Some links-  
